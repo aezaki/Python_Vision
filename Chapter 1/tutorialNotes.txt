@@ -1,0 +1,4 @@
+- creating hand tracking module 
+  - Uses Mediapipe library
+  - palm detection and hand landmarks library 
+  
